@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { handler } from "./api/route";
+// import { handler } from "./pages/api/route";/
 
 export default function Home() {
   return (
